@@ -1,0 +1,9 @@
+C:\Users\cg2lab\Desktop\20201015\test20201015\bin\Debug\test20201015.exe.config
+C:\Users\cg2lab\Desktop\20201015\test20201015\bin\Debug\test20201015.exe
+C:\Users\cg2lab\Desktop\20201015\test20201015\bin\Debug\test20201015.pdb
+C:\Users\cg2lab\Desktop\20201015\test20201015\obj\Debug\WP_2020_01_HW02_9A713030.csprojAssemblyReference.cache
+C:\Users\cg2lab\Desktop\20201015\test20201015\obj\Debug\test20201015.Form1.resources
+C:\Users\cg2lab\Desktop\20201015\test20201015\obj\Debug\test20201015.Properties.Resources.resources
+C:\Users\cg2lab\Desktop\20201015\test20201015\obj\Debug\WP_2020_01_HW02_9A713030.csproj.GenerateResource.cache
+C:\Users\cg2lab\Desktop\20201015\test20201015\obj\Debug\test20201015.exe
+C:\Users\cg2lab\Desktop\20201015\test20201015\obj\Debug\test20201015.pdb
